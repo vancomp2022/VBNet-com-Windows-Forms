@@ -1,0 +1,33 @@
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\_0___Projeto_Principal.Frm_Principal.resources
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\_0___Projeto_Principal.Resources.resources
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\1 - Primeiro Projeto.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\4 - Controle de Fluxo.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\5 - Laços de Repetição.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\1 - Primeiro Projeto.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\1 - Primeiro Projeto.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\1 - Primeiro Projeto.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\4 - Controle de Fluxo.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\4 - Controle de Fluxo.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\4 - Controle de Fluxo.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\5 - Laços de Repetição.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\5 - Laços de Repetição.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\bin\Debug\5 - Laços de Repetição.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.CopyComplete
